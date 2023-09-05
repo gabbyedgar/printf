@@ -1,7 +1,6 @@
-Creating a `README.md` file for a `printf` project in C is a great idea to document your implementation of the `printf` function. Here's a sample `README.md` template:
 
 ```markdown
-# Custom Printf Implementation in C
+# ALX Printf Implementation in C
 
 This project is a custom implementation of the `printf` function in the C programming language. The goal of this project is to demonstrate how the `printf` function works internally and to provide an educational resource for understanding its functionality.
 
